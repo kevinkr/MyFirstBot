@@ -1,0 +1,28 @@
+{
+  "name": "myfirsthub",
+  "version": "1.0.0",
+  "description": "\"build a bot in node.js\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinkr/MyFirstBot.git"
+  },
+  "keywords": [
+    "bot",
+    "slack",
+    "botness"
+  ],
+  "author": "Kevin Krueger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinkr/MyFirstBot/issues"
+  },
+  "homepage": "https://github.com/kevinkr/MyFirstBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
